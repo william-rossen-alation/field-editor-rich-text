@@ -8,6 +8,9 @@ function _export(target, all) {
         get: all[name]
     });
 }
+
+console.log('exports index file')
+
 _export(exports, {
     ConnectedRichTextEditor: function() {
         return ConnectedRichTextEditor;

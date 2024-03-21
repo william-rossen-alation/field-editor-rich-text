@@ -81,7 +81,8 @@
     "@types/is-hotkey": "^0.1.6",
     "@udecode/plate-test-utils": "^3.2.0",
     "prism-react-renderer": "2.0.5",
-    "react": ">=16.14.0"
+    "react": ">=16.14.0",
+    "typescript": "^5.4.3"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
